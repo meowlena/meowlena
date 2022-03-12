@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Milena</h1>
 <h3 align="center">Computer Science Student at Federal University of Rio Grande do Sul.</h3>
 
-- 🔭 I’m currently working on [SIS-ASTROS](https://www.linkedin.com/company/sis-astros/about/)
+- 🔭 I’m currently working on [ADP](https://www.adp.com/)
 
-- 🌱 I’m currently learning **Linux, Python, Git, Ansible and Unity**
+- 🌱 I’m currently learning **Java, SpringBoot, Git**
 
 - 📫 How to reach me **msbraga@inf.ufrgs.br**
 
