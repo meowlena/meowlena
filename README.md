@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Milena</h1>
 <h3 align="center">Computer Science Student at Federal University of Rio Grande do Sul.</h3>
 
-- 🔭 I’m currently working on [ADP](https://www.adp.com/)
+- 🔭 I’m currently working on [ADP Brazil Labs](https://tech.adp.com/)
 
 - 🌱 I’m currently learning **Java, SpringBoot, Git**
 
