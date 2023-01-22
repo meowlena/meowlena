@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **msbraga@inf.ufrgs.br**
 
-- :rainbow_flag: Pronouns **She/her**
+- :rainbow_flag: Pronouns **They/She/He**
 
 <h3 align="left">Connect with me:</h3>
 
