@@ -1,17 +1,25 @@
 <h1 align="center">Hi, I'm Milena</h1>
-<h3 align="center">Computer Science Student at Federal University of Rio Grande do Sul.</h3>
+<h3 align="center">Computer Science Student at Federal University of Rio Grande do Sul</h3>
 
-- 🔭 I’m currently a Science Teaching Student
+- 🔭 I’m currently studying **Science Teaching** and **Computer Science**
+- 💼 I work as a **Full Stack Developer**, mainly with **legacy PHP (Yii framework)**
+- I collaborate on maintaining and improving complex systems in the education sector
+- 🌱 Currently focused on deepening my knowledge in:
+  - **Data Structures and Algorithms**
+  - **Clean Code and Software Architecture**
+  - **Backend development with PHP**
+  - **Modernizing legacy systems**
+  - **Automated testing and refactoring**
+- 🌌 Interested in balancing academic knowledge with real-world coding constraints
 
-- 🌱 I’m currently working as **Full Stack Developer**
-
-- 📫 How to reach me **msbraga@inf.ufrgs.br**
-
-- :rainbow_flag: Pronouns **They/She/He**
+- ✉ How to reach me: **msbraga@inf.ufrgs.br**
+- 🏳️‍🌈 Pronouns: **They/She/He**
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://linkedin.com/in/milenasilvab" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="milenasbraga" /></a>
+<a href="https://linkedin.com/in/milenasilvab" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="milenasbraga" />
+</a>
 
 <!--
 ### Hi there 👋
