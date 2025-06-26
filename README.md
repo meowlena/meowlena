@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Milena</h1>
 <h3 align="center">Computer Science Student at Federal University of Rio Grande do Sul.</h3>
 
-- 🔭 I’m currently working as Science Teaching Student
+- 🔭 I’m currently a Science Teaching Student
 
-- 🌱 I’m currently learning **Java, Linux and Git**
+- 🌱 I’m currently working as **Full Stack Developer**
 
 - 📫 How to reach me **msbraga@inf.ufrgs.br**
 
