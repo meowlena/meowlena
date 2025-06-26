@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Milena</h1>
 <h3 align="center">Computer Science Student at Federal University of Rio Grande do Sul</h3>
 
-- 🔭 I’m currently studying **Science Teaching** and **Computer Science**
+- 🔭 I’m currently studying **Computer Science**
 - 💼 I work as a **Full Stack Developer**, mainly with **legacy PHP (Yii framework)**
 - I collaborate on maintaining and improving complex systems in the education sector
 - 🌱 Currently focused on deepening my knowledge in:
